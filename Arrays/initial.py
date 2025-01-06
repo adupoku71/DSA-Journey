@@ -1,1 +1,5 @@
-print('welcome to data structures and algorithms journey')
+def find_max_of_array(arr):
+    if arr:
+        return max(arr)
+    else:
+        return None
