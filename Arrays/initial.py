@@ -1,0 +1,1 @@
+print('welcome to data structures and algorithms journey')
