@@ -15,6 +15,7 @@ organized by topics, with a focus on improving my problem-solving skills and und
 - [x] Arrays
   - [x] Alternate elements of an array
   - [x] Linear search
+  - [x] Find largest number in array
 - [ ] String
 
 ## 📂 Repository Structure
