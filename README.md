@@ -17,6 +17,9 @@ organized by topics, with a focus on improving my problem-solving skills and und
   - [x] Linear search
   - [x] Find largest number in array
   - [x] Find second largest number in array
+  - [x] Largest three distinct numbers
+  - [x] Leaders in an array
+  - [x] Check if array is sorted
 - [ ] String
 
 ## 📂 Repository Structure
