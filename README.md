@@ -20,7 +20,8 @@ organized by topics, with a focus on improving my problem-solving skills and und
   - [x] Largest three distinct numbers
   - [x] Leaders in an array
   - [x] Check if array is sorted
-- [ ] String
+- [x] Sorting Algorithms
+  - [x] Selection sort
 
 ## 📂 Repository Structure
 
