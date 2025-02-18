@@ -1,4 +1,4 @@
-from Arrays.someArrayProblemTechniques.selection_sort import selection_sort
+from Sorting_Algorithms.selection_sort import selection_sort
 
 def test_selection_sort():
     arr1 = [4, 2, 1, 5, 3]
